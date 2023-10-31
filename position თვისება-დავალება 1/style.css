@@ -1,0 +1,21 @@
+body{
+    margin:0;
+}
+.box{
+    background-color: #0019F9;
+    border: none;
+    width: 686px;
+    height: 464px;
+    margin-top: 9px;
+    margin-left: 9px;
+    position: relative;
+}
+.child{
+    background-color: #F80303;
+    border: none;
+    width: 253px;
+    height: 190px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
